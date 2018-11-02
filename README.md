@@ -3,6 +3,7 @@
 ## API
 - [ ] Reformular toda a API (v2), mudar lógica das rotas
 - [ ] Criar rota para impacto orçamentário?
+- [ ] Subir API em um servidor próprio
 
 ## BASE DE DADOS
 - [ ] Criar lógica para validar telefones na base de estabelecimentos
